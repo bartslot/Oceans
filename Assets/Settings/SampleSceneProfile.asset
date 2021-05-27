@@ -123,7 +123,7 @@ MonoBehaviour:
     m_Value: 0
   focusDistance:
     m_OverrideState: 1
-    m_Value: 2
+    m_Value: 1
     min: 0.1
   aperture:
     m_OverrideState: 1
@@ -132,7 +132,7 @@ MonoBehaviour:
     max: 32
   focalLength:
     m_OverrideState: 1
-    m_Value: 120
+    m_Value: 65.7
     min: 1
     max: 300
   bladeCount:
@@ -169,12 +169,12 @@ MonoBehaviour:
     m_Value: 0
   contrast:
     m_OverrideState: 1
-    m_Value: -20
+    m_Value: 1
     min: -100
     max: 100
   colorFilter:
-    m_OverrideState: 1
-    m_Value: {r: 0.46942863, g: 0.7195621, b: 0.7264151, a: 1}
+    m_OverrideState: 0
+    m_Value: {r: 0.85884655, g: 0.94079465, b: 0.9433962, a: 1}
     hdr: 1
     showAlpha: 0
     showEyeDropper: 1
