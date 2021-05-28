@@ -37,7 +37,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - NormalTile: 0.3
+    - NormalTile: 0.2
     m_Colors:
     - Water_A: {r: 0.29411763, g: 0.6156863, b: 0.6431373, a: 1}
     - Water_B: {r: 0.15686272, g: 0.66672057, b: 0.9490196, a: 1}
